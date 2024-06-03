@@ -19,15 +19,26 @@ Please include a summary of the change. Please also include relevant motivation 
 - [ ] Tests (add new tests or correct existing tests)
 - [ ] Other (please describe):
 
-## Tests
+## Acceptance Criteria
+
+<!-- START: DELETE AND REPLACE WITH ACCEPTANCE CRITERIA FOR THIS PR -->
+
+Please list the acceptence criteria for this pull requests
+
+<!-- END: DELETE AND REPLACE WITH ACCEPTANCE CRITERIA FOR THIS PR -->
+
+- AC 1
+- AC 2
+
+## Test Details
 
 <!-- START: DELETE AND REPLACE WITH SUMMARY OF TESTING APPROACH FOR THIS PR -->
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+Please list any relevant details, constraints and exceptions for your test configuration
 
 <!-- END: DELETE AND REPLACE WITH SUMMARY OF TESTING APPROACH FOR THIS PR -->
 
-- Test A
+- List details here
 
 ## Checklist
 
@@ -38,3 +49,4 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] My changes generate no new warnings
 - [ ] I have added tests that prove my fix is effective or verified that my feature works
 - [ ] New and existing unit tests pass locally with my changes
+- [ ] There are no packages with high severity security vulnerabilities
