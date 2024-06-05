@@ -23,7 +23,7 @@ Please include a summary of the change. Please also include relevant motivation 
 
 <!-- START: DELETE AND REPLACE WITH ACCEPTANCE CRITERIA FOR THIS PR -->
 
-Please list the acceptence criteria for this pull requests
+Please list the acceptance criteria for this pull requests
 
 <!-- END: DELETE AND REPLACE WITH ACCEPTANCE CRITERIA FOR THIS PR -->
 
